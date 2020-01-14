@@ -1,0 +1,3 @@
+[submodule "smart-home-frontend"]
+	path = smart-home-frontend
+	url = https://github.com/sh-commits/smart-home-frontend.git
